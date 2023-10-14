@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="CICDDemo:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/CICDDemo_war</output-path>
+    <root id="archive" name="CICDDemo_war.war">
+      <element id="artifact" artifact-name="CICDDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
